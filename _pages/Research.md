@@ -71,6 +71,8 @@ iframe {
 This work aims to investigate the ALPIDE sensors, which is a MAPS detector made for the ALICE ITS upgrade, for low energies and its potencial for experiments based on 
 ion beams, such as the ones from the Ionic Implantation Lab of IF/UFRGS. 
 
+Advisor: Dr. Rafael Peretti Pezzi
+
 More information at: [https://github.com/maoderos/alpide-iba](https://github.com/maoderos/alpide-iba)
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent" >
@@ -88,6 +90,9 @@ More information at: [https://github.com/maoderos/alpide-iba](https://github.com
 <div class="col-md-9 col-sm-12">
 <h4>Geant4 Validation of Electron Energy Deposition</h4>
 Validation of electron energy deposition of Geant4 versions from 9.6 to 11.0
+
+Advisor: Dr. Gabriela Hoff
+
 </div>
 </div>
 </div>
@@ -100,10 +105,12 @@ Validation of electron energy deposition of Geant4 versions from 9.6 to 11.0
 Geant4 Simulation which builds the ALICE's Absorber. The main goal of this application is to study the influence of the Absorber on the muon trajectory based on the 
 Project O2 code. We estimate the dispersion in position, momentum, angle and also the physics processes evoked by the physics list chosen.
 
+Advisor: Dr. Luis Gustavo Pereira
+
 More information at: [https://github.com/maoderos/g4_absorber](https://github.com/maoderos/g4_absorber)
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent" >
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/abs.jpg" width="175px" height="130px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/abs.jpg" width="200px" height="165px"/>
 </div>
 </div>
 </div>
@@ -114,6 +121,8 @@ More information at: [https://github.com/maoderos/g4_absorber](https://github.co
 <div class="col-md-9 col-sm-12">
  <h4>Study on the Behavior of Cosmic Radiation in Earth’s Atmosphere</h4>
 Geant4 simulation of a proton Shower using a variable density atmosphere model. Due to Geant4 limitations, the atmosphere is divided in slices of constantant density which each one changes its density according to the Corsika model. 
+
+Advisor: Dr. Luis Gustavo Pereira
 
 More information at: [https://github.com/maoderos/cosmic_rays](https://github.com/maoderos/cosmic_rays)
 </div>
